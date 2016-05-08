@@ -5,7 +5,7 @@ This is a public repository corresponding to [CulebraTester](https://github.com/
 
 Android testing can be complicated, time-consuming, and tedious. What if it didn’t have to be?
 
-**CulebraTester** provides a real-time point and click test recording through a web browser. This browser is connected to the Android device under test.
+**CulebraTester** provides a real-time point and click test recording through a web browser. This browser is connected to the Android device under test and the generated source code can be directly imported into Android Studio and run as a normal test.
 
 
 # Issues
