@@ -12,6 +12,10 @@ Android testing can be complicated, time-consuming, and tedious. What if it didn
 - [Public issues](https://github.com/dtmilano/CulebraTester-public/issues)
 - [Private issues](https://github.com/dtmilano/CulebraTester/issues) (only for those with write access to the private repo)
 
+## Report an issue
+| Important |
+|:----------|
+|Before reporting an issue, search the existing one in [Public issues](https://github.com/dtmilano/CulebraTester-public/issues) and if the same issues was already reported add comments to it.|
 
 # Want to learn more?
 Detailed information can be found at [culebra.dtmilano.com](http://culebra.dtmilano.com/).
