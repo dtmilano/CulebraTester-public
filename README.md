@@ -21,7 +21,7 @@ Need to report a technical issue or send feedback about **CulebraTester**? If so
 
 1. On the browser click **Send Feedback** -> **Bug Report**
 2. Copy and paste the generated test into a new issue or as a comment of an existing one
-3. If you'd like to include additional information in your report, such as a URL, a screenshot, javascript console output, adb logcat or an attachment, select the checkboxes next to the item you'd like to submit. If you are reporting an issue about a specific file, please attach any relevant non-confidential documents to the report.
+3. If you'd like to include additional information in your report, such as a URL, a screenshot, javascript console output, adb logcat or an attachment, by dragging & dropping, *Choose Files selecting them*, or pasting from the clipboard. If you are reporting an issue about a specific generated file, please attach any relevant non-confidential documents to the report.
 
 ### Template
 ```
