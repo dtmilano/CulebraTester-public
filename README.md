@@ -18,7 +18,33 @@ Android testing can be complicated, time-consuming, and tedious. What if it didn
 |Before reporting an issue, search the existing one in [Public issues](https://github.com/dtmilano/CulebraTester-public/issues) and if the same issues was already reported add comments to it.|
 
 Need to report a technical issue or send feedback about **CulebraTester**? If so, follow these steps:
+1. On the browser click **Send Feedback** -> **Bug Report**
+2. Copy and paste the generated test into a new issue or as a comment of an existing one
+3. If you'd like to include additional information in your report, such as a URL, a screenshot, javascript console output, adb logcat or an attachment, select the checkboxes next to the item you'd like to submit. If you are reporting an issue about a specific file, please attach any relevant non-confidential documents to the report.
 
+### Template
+```
+# [Enter short bug description here]
+
+[Enter detailed bug description here]
+## Repro Steps
+
+1. [First Step]
+2. [Second Step]
+3. [and so on...]
+
+## Expected
+
+[Enter expected behavior here]
+## Actual
+
+[Enter actual behavior here]
+### Debug Info
+
+<table>
+[Enter debug info here]
+</table>
+```
 
 # Want to learn more?
 Detailed information can be found at [culebra.dtmilano.com](http://culebra.dtmilano.com/).
