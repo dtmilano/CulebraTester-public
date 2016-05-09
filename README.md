@@ -24,6 +24,8 @@ Need to report a technical issue or send feedback about **CulebraTester**? If so
 3. If you'd like to include additional information in your report, such as a URL, a screenshot, javascript console output, adb logcat or an attachment, by dragging & dropping, *Choose Files selecting them*, or pasting from the clipboard. If you are reporting an issue about a specific generated file, please attach any relevant non-confidential documents to the report.
 
 ### Template
+The generated template will contain some information about your device (i.e. build number) if you don't want to share all that info you can use the following template.
+
 ```
 # [Enter short bug description here]
 
