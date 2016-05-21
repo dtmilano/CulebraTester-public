@@ -51,3 +51,5 @@ The generated template will contain some information about your device (i.e. bui
 
 # Want to learn more?
 Detailed information can be found at [culebra.dtmilano.com](http://culebra.dtmilano.com/).
+
+Tecnical documentation can be found in the [wiki](https://github.com/dtmilano/CulebraTester-public/wiki).
