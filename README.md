@@ -1,6 +1,10 @@
 # CulebraTester-public
 <a href="#"><img src="https://github.com/dtmilano/AndroidViewClient/wiki/images/culebra-logo-transparent-204x209-rb-border.png" align="left" hspace="0" vspace="6"></a>
 
+| ⚠️ Warning |
+|:----------|
+| A new version of this project using Kotlin can be found at https://github.com/dtmilano/CulebraTester2-public  |
+
 This is a public repository corresponding to [CulebraTester](https://github.com/dtmilano/CulebraTester) to be able to handle public issues.
 
 Android testing can be complicated, time-consuming, and tedious. What if it didn’t have to be?
